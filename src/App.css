@@ -1,0 +1,26 @@
+.app__logout{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: flex-end;
+
+    border-bottom: 1px solid #4F46E5;
+    margin-bottom: 1vh;
+}
+
+.app__logout__button{
+    width: 100px;
+    height: 30px;
+    margin: 2vh 1vw;
+}
+
+.app__body{
+    flex-grow: 1;
+}
+
+.App{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
